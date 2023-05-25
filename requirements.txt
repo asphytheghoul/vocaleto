@@ -2,3 +2,4 @@ flask
 gpt4all
 torch
 fastapi
+uvicorn
