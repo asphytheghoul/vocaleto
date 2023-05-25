@@ -3,3 +3,4 @@ gpt4all
 torch
 fastapi
 uvicorn
+glibc
